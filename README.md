@@ -1,4 +1,4 @@
-# hello-world
+# Card Scanner + Database
 
 Hi all.
 
